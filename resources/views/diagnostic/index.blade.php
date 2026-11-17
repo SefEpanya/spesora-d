@@ -188,7 +188,7 @@
                             <div class="text-dark fw-bold mb-1" style="font-size: 0.75rem;">Notre cycle d'intégration :</div>
                             <ul class="list-unstyled mb-0 ps-0">
                                 <li class="mb-1"><i class="bi bi-arrow-right-short text-success"></i> Analyse & Choix orienté</li>
-                                <li class="mb-1"><i class="bi bi-arrow-right-short text-success"></i> Déploiement & Configuration</li>
+                                <li class="mb-1"><i class="bi bi-arrow-right-short text-success"></i> Configuration Personnalisée</li>
                                 <li class="mb-1"><i class="bi bi-arrow-right-short text-success"></i> Migration des données</li>
                             </ul>
                         </div>
